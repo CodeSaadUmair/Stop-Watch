@@ -17,7 +17,7 @@ This project is a simple web application that functions as a stopwatch. It featu
 
 ## How to Use
 
-- *link*: 
+- *link*: https://codesaadumair.github.io/Stop-Watch/
 ## Files
 
 - **`index.html`**: Contains the HTML structure of the stopwatch.
